@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nabzina
+- 👋 Hi, I’m Seynabou Ndour
 - 👀 I’m interested in Statistics and Data science
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on domain experts
