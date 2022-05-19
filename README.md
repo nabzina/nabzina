@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Seynabou Ndour
-- 👀 I’m interested in Statistics and Data science
+- 👀 I’m interested in Statistics and Data science (Big Data Analytics, NLP, Machine Learning, Deep Learning ...)
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on domain experts
 - 📫 You can reach me on seynabou.ndour@aims-senegal.org or on my linkdn profile https://www.linkedin.com/in/seynabou-ndour-2b8326170/
